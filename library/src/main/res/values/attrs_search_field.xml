@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SearchField">
+        <attr name="searchHintText" format="string" />
+        <attr name="searchHintTextColor" format="color" />
+        <attr name="searchTextSize" format="float" />
+        <attr name="searchTextColor" format="color" />
+        <attr name="searchFieldBackground" format="integer" />
+        <attr name="searchFieldMicColor" format="color" />
+        <attr name="searchFieldActiveMicColor" format="color" />
+        <attr name="searchFieldClearButtonColor" format="color" />
+        <attr name="searchFieldElevation" format="dimension" />
+    </declare-styleable>
+</resources>

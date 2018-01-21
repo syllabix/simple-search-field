@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MicrophoneButton">
+        <attr name="micColor" format="color" />
+        <attr name="micColorActive" format="color" />
+        <attr name="highlightColor" format="color" />
+    </declare-styleable>
+</resources>
